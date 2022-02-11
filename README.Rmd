@@ -26,5 +26,5 @@ Dados de investimentos do [Banco Central](https://www.bcb.gov.br/estatisticas/ta
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("fernandobastosneto/investimentos")
+devtools::install_github("SCAEC/investimentos")
 ```
