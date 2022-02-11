@@ -21,5 +21,5 @@ World Investment Report, da [UNCTAD](https://unctadstat.unctad.org).
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("fernandobastosneto/investimentos")
+devtools::install_github("SCAEC/investimentos")
 ```
